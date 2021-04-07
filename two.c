@@ -3,7 +3,8 @@ int main
 {
 	int a=5;
 	int b=2;
-	int c;
+	int c,k;
 	c=a*b;
+	k=a%b;
 	printf("%d",c);
 }
